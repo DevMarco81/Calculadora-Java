@@ -5,7 +5,11 @@ Nele você pode fazer diversar operações como divisão, multiplicação, subtr
 
 Como usar:
 1 - Primeiro digita o número
+
 2 - Depois escolhe o operador
+
 3 - Logo após escolhe o segundo número
+
 4 - Feito tudo isso você vai apertar no botão de igualdade: "="
+
 5 - E pronto, você fez uma operação completa
