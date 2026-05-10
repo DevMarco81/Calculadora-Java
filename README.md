@@ -4,6 +4,7 @@ Esse repositório contém uma calculadora funcional que é inspirada na calculad
 Nele você pode fazer diversar operações como divisão, multiplicação, subtração, adição e raiz quadrada
 
 Como usar:
+
 1 - Primeiro digita o número
 
 2 - Depois escolhe o operador
