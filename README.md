@@ -1,7 +1,7 @@
 # Calculadora-Java
 Esse repositório contém uma calculadora funcional que é inspirada na calculadora do Iphone
 
-Nele você pode fazer diversar operações como divisão, multiplicação, subtração, adição e raiz quadrada
+Nela você pode fazer diversar operações como divisão, multiplicação, subtração, adição e raiz quadrada
 
 Como usar:
 
